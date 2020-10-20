@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Appsencryptor](https://github.com/appsencryptor)
-- Place: Earth
+- Place: The Earth
 - Bio: Web developer, Encrypt Apps
 - Github: [Appsencryptor](https://github.com/appsencryptor)
